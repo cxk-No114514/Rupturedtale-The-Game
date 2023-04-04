@@ -6,11 +6,11 @@
 ~~关于引擎我要说点东西:~~
 - ~~这个引擎很劣质(至少目前如此)~~
 - ~~完成度极低~~
-   + overworld-0%
+   + overworld-1%
    + battle-0%
-   + main menu-30%
-   + debug features-2%
+   + main menu-35%
+   + debug features-0%
    + ui typewriter-70%
-   + main typewriter-30%
+   + main typewriter-10%
    + etc.
-- ~~想用随便，不过我希望至少引擎完成一半时再用，作者就标github用户名就行(不标也无所谓)~~
+- ~~想用随便，不过我希望至少引擎完成一半时再用~~
