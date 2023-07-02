@@ -7,10 +7,10 @@
 - ~~这个引擎很劣质(至少目前如此)~~
 - ~~完成度很低~~
    + overworld-1%
-   + battle-5%
-   + main menu-40%
-   + debug features-30%
+   + battle-14%
+   + main menu-41%
+   + debug features-41%
    + ui typewriter-70%
-   + main typewriter-50%
+   + main typewriter-65%
    + etc.
 - ~~想用随便，不过我希望至少引擎完成一半时再用~~
