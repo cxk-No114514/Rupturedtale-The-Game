@@ -1,16 +1,14 @@
 # Rupturedtale The Game
-个人制作的 Rupturedtale 游戏,这也是一个可供研究及用于二次制作的游戏模板。目前仅还原官方漫画内容,不过基础模板制作完成后整点创意也说不好(
+个人制作的 Rupturedtale 游戏,这也是一个可供研究及用于二次制作的游戏模板 目前仅还原官方漫画内容,不过基础模板制作完成后整点创意也说不好(
 
-游戏(模板名-SnapTale Engine ~~被迫开源~~)文件(.xml格式,请使用snap打开)将会在这里发布，目前不会发releases，如果打不开github raw的可以把raw.githubxxxxxxx.com替换成raw.fastgit.org 。目前能用
+## 关于snap旧版游戏那些事
+~~游戏(模板名-SnapTale Engine 被迫开源)文件(.xml格式,请使用snap打开)将会在这里发布，目前不会发releases，如果打不开github raw的可以把raw.githubxxxxxxx.com替换成raw.fastgit.org 。目前能用~~
+虽然snap很好用，不过还是有许多问题，比如导出很不方便（最新版没有导出工具，别人要想体验到你的作品，必须先打开snap的官网编辑器*很慢*，或者下载我打包好的snap windows版），有点舍不得，不过决定已经做好，不会再改变了
 
-~~关于引擎我要说点东西:~~
-- ~~这个引擎很劣质(至少目前如此)~~
-- ~~完成度很低~~
-   + overworld-1%
-   + battle-14%
-   + main menu-41%
-   + debug features-41%
-   + ui typewriter-70%
-   + main typewriter-65%
-   + etc.
-- ~~想用随便，不过我希望至少引擎完成一半时再用~~
+之前的snap版本的游戏你如果想玩并且不嫌麻烦，你仍然可以在这里下载（不过没有人想玩一个啥也木有的半半半成品吧...
+
+## 在这里我会说一些游戏机制：
+- 同时长按[L] [D] 可以导入存档文件
+- 同时长按[S] [V] 可以保存存档和配置文件
+- 存档和配置都是JSON格式，很方便查看
+- 其它敬请期待
